@@ -83,7 +83,9 @@ ul {
   width: 96px;
   height: 96px;
   background-color: #fff;
-  border: solid 5px #fff;
+  border: solid 3px #fff;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .card__name {
