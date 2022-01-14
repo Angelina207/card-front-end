@@ -83,14 +83,14 @@ ul {
   width: 96px;
   height: 96px;
   background-color: #fff;
-  border: solid 3px #fff;
+  border: solid 5px #fff;
   -o-object-fit: cover;
      object-fit: cover;
 }
 
 .card__name {
   position: relative;
-  padding: 20px 0 0;
+  padding: 15px 0 0;
   text-align: center;
   font-size: 18px;
   font-weight: 700;
